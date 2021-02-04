@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 793ea9889031ea24fad09a14d10caabc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocketVR: {fileID: 54715934012590604, guid: 426618147a6f08c42890b26a715568f3,
+      type: 2}
+  - grabPinch: {fileID: 11400000, guid: d50c28156db16c84aa32d71dfefb07b7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
